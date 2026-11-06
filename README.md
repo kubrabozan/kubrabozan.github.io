@@ -1,4 +1,4 @@
-# Kubra Bozan — Data Portfolio
+# Kubra Bozan | Data Portfolio
 
 Source for my portfolio home page, hosted on GitHub Pages.
 
